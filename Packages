@@ -1,1 +1,18 @@
 
+
+Package: WATranslator_Dopamine_1.3
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: المطور العربي
+Depends: firmware (>= 14.0)
+Author: فريق التطوير
+Name: أداة متقدمة
+Description: هذه أداة متقدمة توفر وظائف مفيدة لنظام iOS
+Section: Tweaks
+Homepage: https://example.com
+Filename: debs/WATranslator_Dopamine_1.3.deb
+Size: 29920
+MD5sum: e52afbd6e3116b20d8d14b96fbd29ade
+SHA1: 7768e1ab3b92b7edfd18a74b2242f1effbacb43d
+SHA256: 6c1484fea70465f790953870fd7e9c2730e73c4827e2862a59faf835884b63d8
+
