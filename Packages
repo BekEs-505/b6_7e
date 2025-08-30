@@ -3,11 +3,11 @@
 Package: com.yourname.wamultisend_1.0.0-1+debug_iphoneos-arm64
 Version: 1.0.0
 Architecture: iphoneos-arm64
-Maintainer: Ø§ÙÙØ·ÙØ± Ø§ÙØ¹Ø±Ø¨Ù
+Maintainer: ÃÂ§ÃÂÃÂÃÂ·ÃÂÃÂ± ÃÂ§ÃÂÃÂ¹ÃÂ±ÃÂ¨ÃÂ
 Depends: firmware (>= 14.0)
-Author: ÙØ±ÙÙ Ø§ÙØªØ·ÙÙØ±
+Author: ÃÂÃÂ±ÃÂÃÂ ÃÂ§ÃÂÃÂªÃÂ·ÃÂÃÂÃÂ±
 Name: wamultisend
-Description: ÙØ°Ù Ø£Ø¯Ø§Ø© ÙØªÙØ¯ÙØ© ØªÙÙØ± ÙØ¸Ø§Ø¦Ù ÙÙÙØ¯Ø© ÙÙØ¸Ø§Ù iOS
+Description: ÃÂÃÂ°ÃÂ ÃÂ£ÃÂ¯ÃÂ§ÃÂ© ÃÂÃÂªÃÂÃÂ¯ÃÂÃÂ© ÃÂªÃÂÃÂÃÂ± ÃÂÃÂ¸ÃÂ§ÃÂ¦ÃÂ ÃÂÃÂÃÂÃÂ¯ÃÂ© ÃÂÃÂÃÂ¸ÃÂ§ÃÂ iOS
 Section: Tweaks
 Homepage: https://example.com
 Filename: debs/com.yourname.wamultisend_1.0.0-1+debug_iphoneos-arm64.deb
@@ -20,11 +20,11 @@ SHA256: 38efb6296cdc82659d4bb3ca707a54f0c0f44bf1ea08d9fa809e9a72b430d707
 Package: com.bekes-505.github.io.watranslator
 Version: 1.0.0
 Architecture: iphoneos-arm64
-Maintainer: بيكاس | BekEs
+Maintainer: Ø¨ÙÙØ§Ø³ | BekEs
 Depends: firmware (>= 14.0)
 Author: @B6_7E
 Name: WATranslator Rootlees
-Description: اداة وظيفتها : ترجمة اي كلمه ترسالها في الواتساب الى اي لغة طريقة التشغيل الضغط المطول 
+Description: Ø§Ø¯Ø§Ø© ÙØ¸ÙÙØªÙØ§ : ØªØ±Ø¬ÙØ© Ø§Ù ÙÙÙÙ ØªØ±Ø³Ø§ÙÙØ§ ÙÙ Ø§ÙÙØ§ØªØ³Ø§Ø¨ Ø§ÙÙ Ø§Ù ÙØºØ© Ø·Ø±ÙÙØ© Ø§ÙØªØ´ØºÙÙ Ø§ÙØ¶ØºØ· Ø§ÙÙØ·ÙÙ 
 Section: Tweaks
 Homepage: https://example.com
 Filename: debs/WATranslator_Dopamine_1.3.deb
@@ -32,4 +32,21 @@ Size: 29920
 MD5sum: 12001b2f6e53ef5e86c26167b6a37613
 SHA1: b56c9c85086584ef0158b57e3847eea8226bbac2
 SHA256: 38efb6296cdc82659d4bb3ca707a54f0c0f44bf1ea08d9fa809e9a72b430d707
+
+
+Package: com.yourname.wamultisend_1.0.0-1+debug_iphoneos-arm64
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: المطور العربي
+Depends: firmware (>= 14.0)
+Author: فريق التطوير
+Name: wamultisend
+Description: هذه أداة متقدمة توفر وظائف مفيدة لنظام iOS
+Section: Tweaks
+Homepage: https://example.com
+Filename: debs/AppDataRootless.deb
+Size: 995356
+MD5sum: 07f05269fd888b61aeb5a703802b7588
+SHA1: 2132cb203671a72753c1fdee4d471443129b0eed
+SHA256: d291fd2e7b00b0a3a9b8ce5a8c228526d54fc6c50ad1a0d330c5b0b1c4ae898e
 
