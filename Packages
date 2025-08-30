@@ -1,0 +1,14 @@
+
+Package: A-FontRootless
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: المطور العربي
+Depends: firmware (>= 14.0)
+Description: هذه أداة متقدمة توفر وظائف مفيدة لنظام iOS
+Section: Tweaks
+Filename: debs/A-FontRootless.deb
+Size: 1621940
+MD5sum: 79da18011a5cbf640b2af05491aed37e
+SHA1: 298f9bd2f75e1e5bb4b65dc006d1b429d41c417f
+SHA256: 316b27f27c91e332e1c0578eb560aa57581130021c224f59e12dc16bb4a4c869
+
